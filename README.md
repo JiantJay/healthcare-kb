@@ -6,6 +6,7 @@ GC 헬스케어 신사업·전략 리서치 지식베이스. YouTube·자료를 
 
 ```
 healthcare-kb/
+├── CLAUDE.md            # Claude Code 사용 지침 (인용 규칙)
 ├── glossary.md          # 용어 마스터 (가나다/알파벳 정렬, grep 검색)
 ├── sources/             # 영상·자료별 정리 md (1소스 = 1파일)
 ├── templates/           # md 변환 표준 포맷
