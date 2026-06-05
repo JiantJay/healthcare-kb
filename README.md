@@ -31,5 +31,6 @@ healthcare-kb/
 | 2026-05-12 | bio-bd | 신약개발 프로세스·바이오 투자 옥석 판별 (이승규 한국바이오협회 부회장) | [link](sources/bio-bd/2026-05-12_신약개발_바이오투자_이승규부회장.md) |
 | 2026-05-22 | bio-bd | ADA 2026 비만치료제 한계·미충족 수요와 K-바이오 5개사 (이해진의 바이오 투자학교) | [link](sources/bio-bd/2026-05-22_ADA2026_비만치료제_K바이오.md) |
 | 2026-05-18 | bio-bd | K-바이오 시대·규제 혁파, 렉라자/MARIPOSA·SC제형·투자·AI (조병철 교수·권해순 연구원 2부) | [link](sources/bio-bd/2026-05-18_K바이오_렉라자_규제혁파_AI.md) |
+| 2026-04-06 | ax-llm | LLM Wiki 입문 가이드 — 정원사 모델·raw/wiki/schema·옵시디언 실습 (편집자P) | [link](sources/ax-llm/2026-04-06_LLM위키_입문가이드_옵시디언실습.md) |
 | 2026-05-19 | ax-llm | LLM Wiki 지식 저장소 구축기 — RAG와의 차이·Git+Obsidian·거버넌스 (전현준의 현업 에이전트) | [link](sources/ax-llm/2026-05-19_LLM위키_지식저장소_RAG차이.md) |
 | 2026-05-20 | ax-llm | AI 네이티브 조직 운영 — 폐쇄 루프·소프트웨어 팩토리·새 조직구조 (YC 다이애나 후) | [link](sources/ax-llm/2026-05-20_AI네이티브_조직운영_YC다이애나후.md) |
