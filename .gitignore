@@ -1,3 +1,6 @@
 *.vtt
 .DS_Store
 *.tmp
+
+# 대용량 논문 원본 PDF는 버전관리 제외 (Open Access 원문은 DOI 링크로 접근, 필요시 Git LFS)
+sources/**/papers/assets/*.pdf
