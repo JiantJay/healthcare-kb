@@ -35,3 +35,4 @@ healthcare-kb/
 | 2026-05-19 | ax-llm | LLM Wiki 지식 저장소 구축기 — RAG와의 차이·Git+Obsidian·거버넌스 (전현준의 현업 에이전트) | [link](sources/ax-llm/2026-05-19_LLM위키_지식저장소_RAG차이.md) |
 | 2026-05-20 | ax-llm | AI 네이티브 조직 운영 — 폐쇄 루프·소프트웨어 팩토리·새 조직구조 (YC 다이애나 후) | [link](sources/ax-llm/2026-05-20_AI네이티브_조직운영_YC다이애나후.md) |
 | 2026-05-22 | ax-llm | 회사 단위 LLM Wiki(컴퍼니 브레인) 노코드 구축 실습 — Obsidian+Claude Code (Theuxlabs) | [link](sources/ax-llm/2026-05-22_회사_LLM위키_컴퍼니브레인_실습.md) |
+| 2026-06-02 | bio-bd | 2026 하반기 제약·바이오 전망 — 기술이전·소사이클(RNA)·MASH·톱픽 (키움 허혜민) | [link](sources/bio-bd/2026-06-02_제약바이오_하반기전망_키움허혜민.md) |
