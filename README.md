@@ -11,6 +11,7 @@ healthcare-kb/
 ├── sources/             # 영상·자료별 정리 md (1소스 = 1파일, 주제 폴더 분류)
 │   ├── bio-bd/          # 제약·바이오 BD
 │   ├── ax-llm/          # AX·LLM 활용
+│   ├── healthy-aging/   # 건강노화·만성질환 (anti-aging)
 │   └── digital-health/  # 데이터·디지털헬스
 ├── templates/           # md 변환 표준 포맷
 └── README.md            # 인덱스 + 작업 규칙
@@ -18,7 +19,7 @@ healthcare-kb/
 
 ## 작업 규칙
 
-1. **파일명 규칙**: `sources/<주제폴더>/YYYY-MM-DD_핵심주제.md` (게시일 기준, 공백 대신 `_`). 주제폴더: `bio-bd`(제약·바이오 BD), `ax-llm`(AX·LLM 활용), `digital-health`(데이터·디지털헬스). 새 주제는 폴더 추가
+1. **파일명 규칙**: `sources/<주제폴더>/YYYY-MM-DD_핵심주제.md` (게시일 기준, 공백 대신 `_`). 주제폴더: `bio-bd`(제약·바이오 BD), `ax-llm`(AX·LLM 활용), `healthy-aging`(건강노화·만성질환), `digital-health`(데이터·디지털헬스). 새 주제는 폴더 추가
 2. **소스 노트 구조**: `templates/source_template.md` 준수 — ① 메타데이터 ② 핵심 요약(두괄식) ③ 주제별 정리 ④ 전체 자막(타임스탬프)
 3. **정량 수치**: 1차 출처(공시·논문·기관 통계)로 검증된 수치만 본문에 명기. 출연자 구두 발언 등 미검증 수치는 ⚠️ 경고와 함께 출처를 발언 기준으로 표기
 4. **용어 등록**: 소스 노트에서 새 전문용어가 나오면 `glossary.md`에 추가(정의 + 최초 출처 파일 링크)
@@ -38,3 +39,5 @@ healthcare-kb/
 | 2026-05-22 | ax-llm | 회사 단위 LLM Wiki(컴퍼니 브레인) 노코드 구축 실습 — Obsidian+Claude Code (Theuxlabs) | [link](sources/ax-llm/2026-05-22_회사_LLM위키_컴퍼니브레인_실습.md) |
 | 2026-06-02 | bio-bd | 2026 하반기 제약·바이오 전망 — 기술이전·소사이클(RNA)·MASH·톱픽 (키움 허혜민) | [link](sources/bio-bd/2026-06-02_제약바이오_하반기전망_키움허혜민.md) |
 | 2026-06-02 | bio-bd | 코스닥·제약바이오 수급 — 알테오젠 이전상장·국민성장펀드·장기지속형 (삼프로TV 메리츠 이화진) | [link](sources/bio-bd/2026-06-02_코스닥_제약바이오_수급_삼프로_이화진.md) |
+| 2026-06-01 | healthy-aging | 착한 염증 나쁜 염증 1부 — 염증·면역 작동원리와 대사질환 기전 (서울대 이승훈) | [link](sources/healthy-aging/2026-06-01_착한염증나쁜염증_1부_염증면역원리_이승훈.md) |
+| 2026-06-02 | healthy-aging | 착한 염증 나쁜 염증 2부 — 무증상 만성염증 진단(hsCRP)·치료·수면 (서울대 이승훈) | [link](sources/healthy-aging/2026-06-02_착한염증나쁜염증_2부_만성염증진단_이승훈.md) |

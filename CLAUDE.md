@@ -16,6 +16,7 @@ healthcare-kb/
 ├── sources/           # 소스 노트 (주제 폴더 분류)
 │   ├── bio-bd/        # 제약·바이오 BD
 │   ├── ax-llm/        # AX·LLM 활용
+│   ├── healthy-aging/ # 건강노화·만성질환
 │   └── digital-health/# 데이터·디지털헬스
 └── templates/         # 소스 노트 표준 포맷
 ```
@@ -26,7 +27,7 @@ healthcare-kb/
 2. **근거 인용**: 사실·수치를 인용할 때는 해당 `sources/<파일>.md`를 출처로 명기. 출처가 없는 수치는 본문에 단정 명시 금지.
 3. **미검증 수치 처리**: 소스 노트의 정량 수치 다수는 투자 채널·출연자의 발언·추정값으로 1차 출처 미검증임. 인용 시 ⚠️ 경고를 유지하고, 대외 문서에서는 공시·논문·학회 초록 등 원 출처 확인을 권고할 것.
 4. **두괄식·근거 기반**: 결론을 먼저 제시하고, 출처 있는 정보는 항상 출처를 동반.
-5. **새 소스 추가**: `templates/source_template.md` 포맷 준수 — ① 메타데이터 ② 핵심 요약(두괄식) ③ 주제별 정리 ④ 전체 자막(타임스탬프). 파일명은 `sources/<주제폴더>/YYYY-MM-DD_핵심주제.md` (주제폴더: bio-bd / ax-llm / digital-health, 새 주제는 폴더 추가).
+5. **새 소스 추가**: `templates/source_template.md` 포맷 준수 — ① 메타데이터 ② 핵심 요약(두괄식) ③ 주제별 정리 ④ 전체 자막(타임스탬프). 파일명은 `sources/<주제폴더>/YYYY-MM-DD_핵심주제.md` (주제폴더: bio-bd / ax-llm / healthy-aging / digital-health, 새 주제는 폴더 추가).
 6. **신규 용어 등록**: 새 소스에서 전문용어가 나오면 `glossary.md`에 가나다/알파벳 순으로 추가(정의 + 최초 출처 파일 링크).
 7. **커밋 메시지**: `add: <소스명>` / `update glossary: <용어>` / `fix: <내용>`.
 
