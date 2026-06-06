@@ -37,3 +37,4 @@ healthcare-kb/
 | 2026-05-20 | ax-llm | AI 네이티브 조직 운영 — 폐쇄 루프·소프트웨어 팩토리·새 조직구조 (YC 다이애나 후) | [link](sources/ax-llm/2026-05-20_AI네이티브_조직운영_YC다이애나후.md) |
 | 2026-05-22 | ax-llm | 회사 단위 LLM Wiki(컴퍼니 브레인) 노코드 구축 실습 — Obsidian+Claude Code (Theuxlabs) | [link](sources/ax-llm/2026-05-22_회사_LLM위키_컴퍼니브레인_실습.md) |
 | 2026-06-02 | bio-bd | 2026 하반기 제약·바이오 전망 — 기술이전·소사이클(RNA)·MASH·톱픽 (키움 허혜민) | [link](sources/bio-bd/2026-06-02_제약바이오_하반기전망_키움허혜민.md) |
+| 2026-06-02 | bio-bd | 코스닥·제약바이오 수급 — 알테오젠 이전상장·국민성장펀드·장기지속형 (삼프로TV 메리츠 이화진) | [link](sources/bio-bd/2026-06-02_코스닥_제약바이오_수급_삼프로_이화진.md) |
