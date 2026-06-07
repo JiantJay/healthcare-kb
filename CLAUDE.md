@@ -17,7 +17,8 @@ healthcare-kb/
 │   ├── bio-bd/        # 제약·바이오 BD
 │   ├── ax-llm/        # AX·LLM 활용
 │   ├── healthy-aging/ # 건강노화·만성질환
-│   └── digital-health/# 데이터·디지털헬스
+│   ├── digital-health/# 데이터·디지털헬스
+│   └── <카테고리>/papers/  # 학술 논문 요약 노트 + assets/(원본 PDF, .gitignore)
 └── templates/         # 소스 노트 표준 포맷
 ```
 
