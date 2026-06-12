@@ -45,3 +45,4 @@ healthcare-kb/
 | 2026-06-01 | healthy-aging | 착한 염증 나쁜 염증 1부 — 염증·면역 작동원리와 대사질환 기전 (서울대 이승훈) | [link](sources/healthy-aging/2026-06-01_착한염증나쁜염증_1부_염증면역원리_이승훈.md) |
 | 2026-06-02 | healthy-aging | 착한 염증 나쁜 염증 2부 — 무증상 만성염증 진단(hsCRP)·치료·수면 (서울대 이승훈) | [link](sources/healthy-aging/2026-06-02_착한염증나쁜염증_2부_만성염증진단_이승훈.md) |
 | 2026-06-04 | healthy-aging/papers | [논문] 포유류 노화·사망의 보편 전사체 신호·사망 시계 (Nature, Tyshkovskiy et al.) ⚠️CC BY-NC-ND | [link](sources/healthy-aging/papers/2026-06-04_Nature_노화사망_전사체시계_Tyshkovskiy.md) |
+| 2026-06-09 | healthy-aging | 노화 역전 첫 인체 임상 — Life Bio ER-100(OSK 후성유전 복원, AAV) 시신경병증 1상 (보도자료+NCT07290244) | [link](sources/healthy-aging/2026-06-09_노화역전임상_LifeBio_ER100_OSK_시신경병증.md) |
